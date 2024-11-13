@@ -19,4 +19,14 @@
 8.Number manipulation
 9.f strings
 10.Day 2 Project (Tip Calculator)
+#####
+# Day-3-python-
+1.Conditional statements
+2.using comparison operators to compare and check the conditions(<,>,==,>=,<=)
+3.Nested If/else
+4.logical operators (and,or,not)
+5.Odd or Even
+6.pizza delivering
+7.Day 3 Project (Treasure Island)
+
 
