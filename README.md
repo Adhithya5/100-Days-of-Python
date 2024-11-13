@@ -27,6 +27,6 @@
 4.logical operators (and,or,not)
 5.Odd or Even
 6.pizza delivering
-7.Day 3 Project (Treasure Island)
+7.Day 3 Project (Treasure Island Game)
 
 
